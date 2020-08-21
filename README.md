@@ -1,5 +1,5 @@
 # Hi there 👋
-## I'm Nawal pronounced as {Naw-aal} which means 🎁 in Arabic
+## I'm Nawal, pronounced as {Naw-aal} which means 🎁 in Arabic
 ### My name is like this in Arabic 👉🏼 نوال && like this in Japanese 👉🏼 ナワル 
 
 - 🌳 I'm working on Flutter
